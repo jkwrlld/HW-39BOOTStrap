@@ -3,3 +3,14 @@
   padding-top: 80px;
   padding-bottom: 162px;
 }
+
+.imglogo {
+  width: 150px;
+  height: 65px;
+}
+
+.order {
+  background-image: url(./img/Rectangle.png);
+  padding-top: 131px;
+  padding-bottom: 130px;
+}
